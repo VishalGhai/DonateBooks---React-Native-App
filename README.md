@@ -2,7 +2,7 @@
 
 YOU CAN DOWNLOAD THE APK FILE - 
 
-[a link](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/Donate%20Books.apk)
+[Donwload APK !](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/Donate%20Books.apk)
 
 LET's TEAR IT !
 
@@ -35,6 +35,6 @@ for some poor people or children which can't afford that much resource to gain s
 ![alt text](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/DoWhatsapp.jpg)
 7. Click on User icon at the top right corner to view your profile.
 
-![alt text](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/DoWhatsapp.jpg)
+![alt text](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/UserPage.jpg)
 
 Hope You Like It !
