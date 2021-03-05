@@ -6,35 +6,42 @@ YOU CAN DOWNLOAD THE APK FILE -
 
 LET's TEAR IT !
 
-An app project made with React Native and Firebase.
-DonateBooks is an app which help people to donate unwanted books at their home which can be very useful
-for some poor people or children which can't afford that much resource to gain some knowledge and want to study.
+This app made with React Native and Firebase.
+DonateBooks is the app which help people to donate unwanted books at their home which can be very useful
+for some poor people or children which can't afford that much resource to gain some knowledge and want to learn.
 
-1. When you start the app. Log-In screen will appear - 
 
-![alt text](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/LoginPage.jpg)
-
-2. First create your new account by tapping on sign-up button - 
-
-![alt text](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/SignUp.jpg)
-
-3. Now log-in with your account - 
-
-![alt text](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/HomePage.jpg)
-
-4. Now this is the main screen of th eapp where all the donated books from users will be displayed.
-5. Tap on WANT BOOK button if you want to get the book.
-6. Tap on DONATE A BOOK button if you want to donate your book.
-
-![alt text](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/GetBook.jpg)
-
-8. Now if you want a book click on get button.
-  8.1. You can call the user and go to their location and collect the book.
-  8.2. You can do whatsapp on their mobile no. also with a pre-written text message.
+<table style="border:none;">
+  <tr>
+    <td><b>1. When you start the app. Log-In screen will appear - <b></td>
+    <td>2. First create your new account by tapping on sign-up button - </td>
+  </tr>
+      
+  <tr>
+    <td align="center"><img width="350px" src="https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/LoginPage.jpg"></td>
+    <td align="center"><img width="350px" style="float:right;position:relative;" src="https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/SignUp.jpg"></td>
+  </tr>
   
-![alt text](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/DoWhatsapp.jpg)
-7. Click on User icon at the top right corner to view your profile.
+  <tr>
+    <td><b>3. After Loggin In, you will get to the home page of the app - <b></td>
+    <td>4. Tap on any book you want - </td>
+  </tr>
+      
+  <tr>
+    <td align="center"><img width="350px" src="https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/HomePage.jpg"></td>
+    <td align="center"><img width="350px" style="float:right;position:relative;" src="https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/GetBook.jpg"></td>
+  </tr>
+  
+  <tr>
+    <td width="50%"><b>5. You can reach the book owner by Call or Whatsapp, an auto-generated message appear and you just have to tap on send button- <b></td>
+    <td>6. Here's the user info - </td>
+  </tr>
+  
+  <tr>
+    <td align="center"><img width="350px" src="https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/DoWhatsapp.jpg"></td>
+    <td align="center"><img width="350px" style="float:right;position:relative;" src="https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/UserPage.jpg"></td>
+  </tr>
+  
+</table>
 
-![alt text](https://github.com/VishalGhai/DonateBooks---React-Native-App/blob/master/UserPage.jpg)
-
-Hope You Like It !
+Hope You Liked It !
