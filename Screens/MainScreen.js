@@ -262,8 +262,8 @@ function MainScreen(props) {
                                 setBookUIDShow(element.BookOwner),
                                 setBookModalVisible(!bookModalVisible)
                         }}
-                            style={{ backgroundColor: colors.primary, padding: 10, borderRadius: 20, height: 35 }}>
-                            <Text style={{ fontSize: 13, color: 'white' }}>WANT BOOK</Text>
+                            style={{ backgroundColor: colors.primary, padding: 8, borderRadius: 15, height: 30, width:90 }}>
+                            <Text style={{ fontSize: 11, color: 'white' }}>WANT BOOK</Text>
                         </TouchableOpacity>
                     </View>
                 </View>
@@ -287,7 +287,7 @@ function MainScreen(props) {
                                     setBookModalVisible(!bookModalVisible)
                             }}
                                 style={{ backgroundColor: colors.primary, padding: 10, borderRadius: 20, height: 35 }}>
-                                <Text style={{ fontSize: 13, color: 'white' }}>WANT BOOK</Text>
+                                <Text style={{ fontSize: 11, color: 'white' }}>WANT BOOK</Text>
                             </TouchableOpacity>
                         </View>
                     </View>
